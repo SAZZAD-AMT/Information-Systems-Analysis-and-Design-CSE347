@@ -1,0 +1,59 @@
+marketing post :
+1.What are insecticides?
+
+Substances which are used to kill insects are called insecticides. Insecticides have a wide application in the field of medicine, agriculture, and industry. They have the potential to alter ecosystem components majorly and are toxic to animals as well as humans. Some insecticides become concentrated as they spread in the food chain.
+
+2.Classification of insecticide!
+
+Based on chemical composition, it is classified as organic and inorganic.
+Based on the mode of entry in the insects, it is classified as contact poisons, fumigants poisons, stomach poisons, and systemic poisons.
+Based on the mode of action, it is classified as physical poisons, nerve poisons, respiratory poisons, protoplasmic poisons, general poisons, and chitin inhibitors.
+Based on toxicity, it is classified into four types:
+Extremely toxic – Colour: red, symbol: skull and poison, oral LD50: 1-50
+Moderately toxic – Colour: blue, symbol: danger, oral LD50: 501 – 5000
+Highly toxic – Colour: yellow, symbol: poison, oral LD50: 51 – 500
+Less toxic – Colour: green, symbol: caution, oral LD50: >5000
+Based on the stage of specificity, it is classified as ovicides, pupicides, larvicides, and adulticides.
+
+3.Types of insecticides
+
+There are three different types of insecticides. They are
+Systemic – This type of insecticide is introduced into the soil for it to get absorbed by the plant roots. Once the insecticide enters the roots, it moves to external areas such as leaves, fruits, twigs, and branches. It forms a layer on the plant surface area and acts as a poison to any insect that comes to chew the plant.
+Ingested – Some examples of ingested pesticides are rat and roach.
+Contact – These type of insecticides act like bullets that aim only at a particular target to kill insects by its application. Usually, household insect spray works like contact insecticides as it must directly hit the insect.
+
+4.Disadvantages of insecticides
+
+Non-target organisms – Insecticides can kill more than intended organisms and are risky to humans. Also, when insecticides mix with water sources through leaching, drift, or run off, they harm aquatic wildlife. When birds drink such contaminated water and eat affected insects, they die. Some examples of insecticides, like DDT, were banned in the US as it affects the reproductive abilities of predatory birds.
+Resistance – Insects when repeatedly exposed to insecticides build up resistance until finally, they have little or no effect at all. The reproduction in insects is so quick that they produce a new generation every three to four weeks. Therefore, the resistance builds up rapidly.
+
+link:https://byjus.com/chemistry/insecticides/
+
+
+5.Anion and cation penetration and translocation pattern in the leaf tissue
+Penetration also occurs through the stomata, which are aperture controlled for gas exchange and transpiration. It is known that these apertures differ between different plant species, their distribution, occurrence, size and shape. In broadleaf crops and trees, most of the stomata are on the lower leaf surface, while grass species have the same number on both surfaces. Size may differ, for example, sorghum stomata are four times larger than bean stomata. High penetration is estimated to be due to high cuticle pore density in cell walls between guard cells and subsidiary cells. In addition, the pores near the stomata guard cells seem to have different permeability characteristics. An opposite opinion exists, claiming that penetration through open stomata does not play a major role since a cuticle layer also covers the surface of the guard cells in stomata cavities and because ion uptake rates are usually higher at night when the stomata are relatively closed.
+
+
+6.Translocation within the leaf tissue
+After the ions have penetrated, transportation to different parts of the plant starts and this is referred to as translocation. Translocation is done through two mechanisms: cell-to-cell transport is referred to as ‘Apoplast movement’, and transport through the vascular channels is referred to as ‘Symplast movement’.
+
+ 
+
+7.The Apoplast movement describes the ion movement from one cell to another. This is done by three mechanisms (Figure 3.5):
+
+Passive transport involves diffusion according to the gradient and mass flow through the water/fluid movement between cells.
+Absorption by cytoplasm membrane surface via plasmodesmata, which are microscopic channels connecting one cell wall to another, enabling transport and communication between them.
+Active transport (ATP) against the gradient, enabled due to energy investment of ATP molecules.
+
+8.What is foliar feeding?
+ 
+Foliar feeding is a ‘by-pass’ approach, overtaking conventional soil applied fertilizer whenever it does not perform well enough. Foliar application overcomes soil fertilization limitations like leaching, insoluble fertilizer precipitation, antagonism between certain nutrients, heterogenic soils unsuitable for low rates, and fixation/absorption reactions like in the case of phosphorus and potassium.
+
+9.Guava Tree guide – get the most of your guava tree fertilizer
+ 
+
+Guavas (singular guava /'gw??v?/)[1] are common tropical fruits cultivated and enjoyed in many tropical and subtropical regions. Psidium guajava (common guava, lemon guava) is a small tree in the Myrtle family (Myrtaceae), native to Mexico, Central America, and northern South America. Although related species may also be called guavas, they belong to other species or genera, such as the "pineapple guava" Acca sellowiana. In 2011, India was the largest producer of guavas.
+
+The most frequently eaten species, and the one often simply referred to as "the guava", is the apple guava (Psidium guajava).[citation needed] Guavas are typical Myrtoideae, with tough dark leaves that are opposite, simple, elliptic to ovate and 5–15 centimetres (2.0–5.9 in) long. The flowers are white, with five petals and numerous stamens. The fruits are many-seeded berries. The genera Accara and Acca (formerly Feijoa, pineapple guava) were formerly included in Psidium.
+
+
